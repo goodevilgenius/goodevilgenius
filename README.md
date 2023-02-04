@@ -7,17 +7,16 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hello" />
 </h2>
 
-<!--
-**goodevilgenius/goodevilgenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a PHP Developer from Houston, TX, USA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub hosts mostly my legacy projects. I tend not to use it for any new projects.
+
+Feel free to look around, but if you'd like to see current projects I'm working on, check out my [Codeberg profile](https://codeberg.org/danjones000/).
+
+I also have a few things on [GitLab](https://gitlab.com/danjones000).
+
+### 💬 Contact
+
+You can email me at [danjones@goodevilgenius.org](mailto:danjones@goodevilgenius.org), or check out my various [social links](https://links.danielrayjones.com/).
