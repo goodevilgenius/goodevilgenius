@@ -20,3 +20,5 @@ I also have a few things on [GitLab](https://gitlab.com/danjones000).
 ### 💬 Contact
 
 You can email me at [danjones@goodevilgenius.org](mailto:danjones@goodevilgenius.org), or check out my various [social links](https://links.danielrayjones.com/).
+
+Also, don't forget to check out me [résumé site](https://danielrayjones.com).
